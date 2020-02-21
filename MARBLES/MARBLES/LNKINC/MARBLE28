@@ -1,0 +1,4 @@
+  INCLUDE INCMOD(MARBLE28)                                              00000100
+  ORDER MARBLE28                                                        00000200
+  ENTRY MARBLE28                                                        00000300
+  SETOPT PARM(AMODE=31,REUS(RENT),RMODE=ANY)                            00000400

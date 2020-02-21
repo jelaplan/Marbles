@@ -1,0 +1,24 @@
+{
+  "__version" : 1,
+  "gitBridgeInstanceUrl" : "http://gitbridge-34.66.81.186.nip.io",
+  "git" : {
+    "context" : "MikeBauerCA",
+    "repository" : "Marbles",
+    "url" : "https://github.com/MikeBauerCA/Marbles.git",
+    "branch" : "master"
+  },
+  "endevor" : {
+    "baseUrl" : "http://35.225.171.67:6002/EndevorService/rest/",
+    "configuration" : "ENDEVOR",
+    "environment" : "DEV",
+    "stageNumber" : "1",
+    "system" : "MARBLES",
+    "subsystem" : "MARBLES"
+  },
+  "filters" : {
+    "currentEnvironment" : false,
+    "elements" : null,
+    "types" : null,
+    "exemptions" : null
+  }
+}
